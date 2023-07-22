@@ -29,9 +29,7 @@ The goal of this project is to show the core concepts of building SPA with Expre
 
 ### Installation
 
-Book Store requires 
-* [MongoDB](https://www.mongodb.com/download-center#community) v3.6+
-* [NodeJS](https://nodejs.org/en/) v8+
+ 
 
 To start the database (port: 27017): Install MongoDB, open new cmd window (in project root) and run
 
@@ -90,4 +88,4 @@ $ ng serve
 
 ### Authors
 
-* [Saheli Trushna]
+* [Rohan Kumar Behera]
